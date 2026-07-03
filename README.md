@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/apoorv1jha/practise-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/apoorv1jha/practise-question/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/apoorv1jha/practise-question/tree/master/0041-first-missing-positive) |
 | [0283-move-zeroes](https://github.com/apoorv1jha/practise-question/tree/master/0283-move-zeroes) |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/apoorv1jha/practise-question/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/apoorv1jha/practise-question/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/apoorv1jha/practise-question/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

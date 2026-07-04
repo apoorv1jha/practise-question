@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/apoorv1jha/practise-question/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/apoorv1jha/practise-question/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/apoorv1jha/practise-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1jha/practise-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/apoorv1jha/practise-question/tree/master/0283-move-zeroes) |
 | [0941-valid-mountain-array](https://github.com/apoorv1jha/practise-question/tree/master/0941-valid-mountain-array) |
 ## Hash Table
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/apoorv1jha/practise-question/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1jha/practise-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

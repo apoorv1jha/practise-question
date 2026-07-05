@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/apoorv1jha/practise-question/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/apoorv1jha/practise-question/tree/master/0283-move-zeroes) |
 | [0941-valid-mountain-array](https://github.com/apoorv1jha/practise-question/tree/master/0941-valid-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/apoorv1jha/practise-question/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1jha/practise-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/apoorv1jha/practise-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/apoorv1jha/practise-question/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

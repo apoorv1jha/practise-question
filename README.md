@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/apoorv1jha/practise-question/tree/master/0237-delete-node-in-a-linked-list) |
 ## Sliding Window
 |  |
@@ -61,5 +62,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0002-add-two-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/apoorv1jha/practise-question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

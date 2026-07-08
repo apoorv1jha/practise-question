@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/apoorv1jha/practise-question/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/apoorv1jha/practise-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/apoorv1jha/practise-question/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/apoorv1jha/practise-question/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/apoorv1jha/practise-question/tree/master/0941-valid-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/apoorv1jha/practise-question/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -78,4 +79,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/apoorv1jha/practise-question/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/apoorv1jha/practise-question/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/apoorv1jha/practise-question/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

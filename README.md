@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/apoorv1jha/practise-question/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/apoorv1jha/practise-question/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/apoorv1jha/practise-question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/apoorv1jha/practise-question/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/apoorv1jha/practise-question/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/apoorv1jha/practise-question/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/apoorv1jha/practise-question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/apoorv1jha/practise-question/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/apoorv1jha/practise-question/tree/master/0234-palindrome-linked-list) |

@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/apoorv1jha/practise-question/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/apoorv1jha/practise-question/tree/master/0941-valid-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/apoorv1jha/practise-question/tree/master/1480-running-sum-of-1d-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/apoorv1jha/practise-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/apoorv1jha/practise-question/tree/master/0041-first-missing-positive) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/apoorv1jha/practise-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/apoorv1jha/practise-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/apoorv1jha/practise-question/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/apoorv1jha/practise-question/tree/master/0209-minimum-size-subarray-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/apoorv1jha/practise-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1154-day-of-the-year](https://github.com/apoorv1jha/practise-question/tree/master/1154-day-of-the-year) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/apoorv1jha/practise-question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/apoorv1jha/practise-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/apoorv1jha/practise-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->

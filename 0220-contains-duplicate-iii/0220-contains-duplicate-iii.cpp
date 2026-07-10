@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool containsNearbyAlmostDuplicate(vector<int>& nums, int indexDiff, int valueDiff) {
-        set<int>st(nums.begin(),nums.end());
-        
+        set<int>st;
+        st.insert(nums.begin(),nums.end());
         if(st.size()==nums.size() && valueDiff ==0) return false;
         int n = nums.size();
         for(int i=0;i<n;i++){

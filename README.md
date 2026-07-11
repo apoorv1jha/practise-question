@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1jha/practise-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/apoorv1jha/practise-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/apoorv1jha/practise-question/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/apoorv1jha/practise-question/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/apoorv1jha/practise-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/apoorv1jha/practise-question/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/apoorv1jha/practise-question/tree/master/0220-contains-duplicate-iii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/apoorv1jha/practise-question/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/apoorv1jha/practise-question/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0633-sum-of-square-numbers) |
 | [1154-day-of-the-year](https://github.com/apoorv1jha/practise-question/tree/master/1154-day-of-the-year) |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/apoorv1jha/practise-question/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/apoorv1jha/practise-question/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

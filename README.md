@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1jha/practise-question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorv1jha/practise-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/apoorv1jha/practise-question/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/apoorv1jha/practise-question/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/apoorv1jha/practise-question/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/apoorv1jha/practise-question/tree/master/0941-valid-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorv1jha/practise-question/tree/master/1331-rank-transform-of-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/apoorv1jha/practise-question/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/apoorv1jha/practise-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/apoorv1jha/practise-question/tree/master/0561-array-partition) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1jha/practise-question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorv1jha/practise-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/apoorv1jha/practise-question/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/apoorv1jha/practise-question/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorv1jha/practise-question/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bucket Sort
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/apoorv1jha/practise-question/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/apoorv1jha/practise-question/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

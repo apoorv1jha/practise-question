@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/apoorv1jha/practise-question/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/apoorv1jha/practise-question/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/apoorv1jha/practise-question/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/apoorv1jha/practise-question/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/apoorv1jha/practise-question/tree/master/0941-valid-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorv1jha/practise-question/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/apoorv1jha/practise-question/tree/master/1480-running-sum-of-1d-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1jha/practise-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/apoorv1jha/practise-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/apoorv1jha/practise-question/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorv1jha/practise-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/apoorv1jha/practise-question/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/apoorv1jha/practise-question/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/apoorv1jha/practise-question/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/apoorv1jha/practise-question/tree/master/1154-day-of-the-year) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorv1jha/practise-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/apoorv1jha/practise-question/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/apoorv1jha/practise-question/tree/master/0561-array-partition) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/apoorv1jha/practise-question/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0633-sum-of-square-numbers) |
 | [1154-day-of-the-year](https://github.com/apoorv1jha/practise-question/tree/master/1154-day-of-the-year) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorv1jha/practise-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/apoorv1jha/practise-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/apoorv1jha/practise-question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/apoorv1jha/practise-question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/apoorv1jha/practise-question/tree/master/0204-count-primes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorv1jha/practise-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/apoorv1jha/practise-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
 |  |
 | ------- |

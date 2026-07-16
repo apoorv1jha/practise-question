@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorv1jha/practise-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/apoorv1jha/practise-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorv1jha/practise-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorv1jha/practise-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0633-sum-of-square-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorv1jha/practise-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/apoorv1jha/practise-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/apoorv1jha/practise-question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/apoorv1jha/practise-question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorv1jha/practise-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/apoorv1jha/practise-question/tree/master/1331-rank-transform-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/apoorv1jha/practise-question/tree/master/2733-neither-minimum-nor-maximum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorv1jha/practise-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/apoorv1jha/practise-question/tree/master/0204-count-primes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorv1jha/practise-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/apoorv1jha/practise-question/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorv1jha/practise-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/apoorv1jha/practise-question/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorv1jha/practise-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

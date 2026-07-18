@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/apoorv1jha/practise-question/tree/master/0941-valid-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorv1jha/practise-question/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/apoorv1jha/practise-question/tree/master/1480-running-sum-of-1d-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/apoorv1jha/practise-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/apoorv1jha/practise-question/tree/master/2733-neither-minimum-nor-maximum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorv1jha/practise-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorv1jha/practise-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/apoorv1jha/practise-question/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/apoorv1jha/practise-question/tree/master/1154-day-of-the-year) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/apoorv1jha/practise-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorv1jha/practise-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorv1jha/practise-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/apoorv1jha/practise-question/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/apoorv1jha/practise-question/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/apoorv1jha/practise-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorv1jha/practise-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorv1jha/practise-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/apoorv1jha/practise-question/tree/master/3658-gcd-of-odd-and-even-sums) |

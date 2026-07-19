@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/apoorv1jha/practise-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/apoorv1jha/practise-question/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/apoorv1jha/practise-question/tree/master/0561-array-partition) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
@@ -150,16 +151,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/apoorv1jha/practise-question/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/apoorv1jha/practise-question/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/apoorv1jha/practise-question/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/apoorv1jha/practise-question/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/apoorv1jha/practise-question/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/apoorv1jha/practise-question/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/apoorv1jha/practise-question/tree/master/1154-day-of-the-year) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/apoorv1jha/practise-question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find

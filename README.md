@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/apoorv1jha/practise-question/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/apoorv1jha/practise-question/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/apoorv1jha/practise-question/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/apoorv1jha/practise-question/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/apoorv1jha/practise-question/tree/master/0941-valid-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/apoorv1jha/practise-question/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorv1jha/practise-question/tree/master/1331-rank-transform-of-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/apoorv1jha/practise-question/tree/master/0680-valid-palindrome-ii) |
 | [0845-longest-mountain-in-array](https://github.com/apoorv1jha/practise-question/tree/master/0845-longest-mountain-in-array) |
+| [0905-sort-array-by-parity](https://github.com/apoorv1jha/practise-question/tree/master/0905-sort-array-by-parity) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorv1jha/practise-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorv1jha/practise-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/apoorv1jha/practise-question/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/apoorv1jha/practise-question/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/apoorv1jha/practise-question/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorv1jha/practise-question/tree/master/1331-rank-transform-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/apoorv1jha/practise-question/tree/master/2733-neither-minimum-nor-maximum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |

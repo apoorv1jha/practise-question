@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/apoorv1jha/practise-question/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/apoorv1jha/practise-question/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/apoorv1jha/practise-question/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/apoorv1jha/practise-question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/apoorv1jha/practise-question/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/apoorv1jha/practise-question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/apoorv1jha/practise-question/tree/master/0090-subsets-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/apoorv1jha/practise-question/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/apoorv1jha/practise-question/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/apoorv1jha/practise-question/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1jha/practise-question/tree/master/0349-intersection-of-two-arrays) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/apoorv1jha/practise-question/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/apoorv1jha/practise-question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/apoorv1jha/practise-question/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/apoorv1jha/practise-question/tree/master/0090-subsets-ii) |
 ## Combinatorics

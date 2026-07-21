@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/apoorv1jha/practise-question/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1jha/practise-question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorv1jha/practise-question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/apoorv1jha/practise-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/apoorv1jha/practise-question/tree/master/0500-keyboard-row) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorv1jha/practise-question/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorv1jha/practise-question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/apoorv1jha/practise-question/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/apoorv1jha/practise-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/apoorv1jha/practise-question/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/apoorv1jha/practise-question/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/apoorv1jha/practise-question/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/apoorv1jha/practise-question/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorv1jha/practise-question/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting Sort
 |  |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/apoorv1jha/practise-question/tree/master/1260-shift-2d-grid) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/apoorv1jha/practise-question/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

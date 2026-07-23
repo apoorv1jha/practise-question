@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/apoorv1jha/practise-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/apoorv1jha/practise-question/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/apoorv1jha/practise-question/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/apoorv1jha/practise-question/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/apoorv1jha/practise-question/tree/master/0191-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |

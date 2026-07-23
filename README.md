@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/apoorv1jha/practise-question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorv1jha/practise-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/apoorv1jha/practise-question/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/apoorv1jha/practise-question/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/apoorv1jha/practise-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0633-sum-of-square-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorv1jha/practise-question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -317,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/apoorv1jha/practise-question/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/apoorv1jha/practise-question/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

@@ -11,7 +11,7 @@ public:
                     count++;
                 }
             }
-            if(count >=2){
+            if(count >1){
                 x =i; 
             }
             if(count ==0){

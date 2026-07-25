@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/apoorv1jha/practise-question/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/apoorv1jha/practise-question/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3174-clear-digits](https://github.com/apoorv1jha/practise-question/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/apoorv1jha/practise-question/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/apoorv1jha/practise-question/tree/master/1154-day-of-the-year) |
+| [3174-clear-digits](https://github.com/apoorv1jha/practise-question/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/apoorv1jha/practise-question/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/apoorv1jha/practise-question/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/apoorv1jha/practise-question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/apoorv1jha/practise-question/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/apoorv1jha/practise-question/tree/master/1260-shift-2d-grid) |
+| [3174-clear-digits](https://github.com/apoorv1jha/practise-question/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/apoorv1jha/practise-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |

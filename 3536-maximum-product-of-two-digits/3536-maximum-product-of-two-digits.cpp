@@ -9,11 +9,14 @@ public:
             ans.push_back(digit);
              n/=10;
         }
-        for(int i=0;i<ans.size();i++){
-            for(int j=i+1;j<ans.size();j++){
-                mx= max(mx,ans[i]*ans[j]);
-            }
-        }
-        return mx;
+        // for(int i=0;i<ans.size();i++){
+        //     for(int j=i+1;j<ans.size();j++){
+        //         mx= max(mx,ans[i]*ans[j]);
+        //     }
+        // }
+        // return mx;
+        sort(ans.begin(),ans.end());
+        int k= ans.size();
+        return ans[k-1]*ans[k-2];
     }
 };

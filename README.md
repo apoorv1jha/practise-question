@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/apoorv1jha/practise-question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/apoorv1jha/practise-question/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/apoorv1jha/practise-question/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/apoorv1jha/practise-question/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/apoorv1jha/practise-question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/apoorv1jha/practise-question/tree/master/0922-sort-array-by-parity-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/apoorv1jha/practise-question/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/apoorv1jha/practise-question/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/apoorv1jha/practise-question/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/apoorv1jha/practise-question/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/apoorv1jha/practise-question/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3174-clear-digits](https://github.com/apoorv1jha/practise-question/tree/master/3174-clear-digits) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/apoorv1jha/practise-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/apoorv1jha/practise-question/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/apoorv1jha/practise-question/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/apoorv1jha/practise-question/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/apoorv1jha/practise-question/tree/master/1154-day-of-the-year) |
 | [3174-clear-digits](https://github.com/apoorv1jha/practise-question/tree/master/3174-clear-digits) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/apoorv1jha/practise-question/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/apoorv1jha/practise-question/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/apoorv1jha/practise-question/tree/master/1260-shift-2d-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/apoorv1jha/practise-question/tree/master/2073-time-needed-to-buy-tickets) |

@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/apoorv1jha/practise-question/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/apoorv1jha/practise-question/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/apoorv1jha/practise-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/apoorv1jha/practise-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/apoorv1jha/practise-question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/apoorv1jha/practise-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/apoorv1jha/practise-question/tree/master/2769-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/apoorv1jha/practise-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorv1jha/practise-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorv1jha/practise-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/apoorv1jha/practise-question/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/apoorv1jha/practise-question/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/apoorv1jha/practise-question/tree/master/1154-day-of-the-year) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/apoorv1jha/practise-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-clear-digits](https://github.com/apoorv1jha/practise-question/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/apoorv1jha/practise-question/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/apoorv1jha/practise-question/tree/master/3501-maximize-active-section-with-trade-ii) |

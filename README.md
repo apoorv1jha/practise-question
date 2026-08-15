@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/apoorv1jha/practise-question/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/apoorv1jha/practise-question/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/apoorv1jha/practise-question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/apoorv1jha/practise-question/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2733-neither-minimum-nor-maximum](https://github.com/apoorv1jha/practise-question/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/apoorv1jha/practise-question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorv1jha/practise-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/apoorv1jha/practise-question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/apoorv1jha/practise-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/apoorv1jha/practise-question/tree/master/0617-merge-two-binary-trees) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/apoorv1jha/practise-question/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/apoorv1jha/practise-question/tree/master/2685-count-the-number-of-complete-components) |
 ## Counting
 |  |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/apoorv1jha/practise-question/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/apoorv1jha/practise-question/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/apoorv1jha/practise-question/tree/master/0617-merge-two-binary-trees) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/apoorv1jha/practise-question/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/apoorv1jha/practise-question/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/apoorv1jha/practise-question/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/apoorv1jha/practise-question/tree/master/0617-merge-two-binary-trees) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/apoorv1jha/practise-question/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

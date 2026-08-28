@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/apoorv1jha/practise-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/apoorv1jha/practise-question/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/apoorv1jha/practise-question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/apoorv1jha/practise-question/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/apoorv1jha/practise-question/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/apoorv1jha/practise-question/tree/master/0046-permutations) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/apoorv1jha/practise-question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/apoorv1jha/practise-question/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/apoorv1jha/practise-question/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/apoorv1jha/practise-question/tree/master/0160-intersection-of-two-linked-lists) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/apoorv1jha/practise-question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/apoorv1jha/practise-question/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/apoorv1jha/practise-question/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/apoorv1jha/practise-question/tree/master/1260-shift-2d-grid) |

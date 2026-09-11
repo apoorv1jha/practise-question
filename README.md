@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/apoorv1jha/practise-question/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorv1jha/practise-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/apoorv1jha/practise-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/apoorv1jha/practise-question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/apoorv1jha/practise-question/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/apoorv1jha/practise-question/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/apoorv1jha/practise-question/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorv1jha/practise-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/apoorv1jha/practise-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/apoorv1jha/practise-question/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/apoorv1jha/practise-question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/apoorv1jha/practise-question/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/apoorv1jha/practise-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/apoorv1jha/practise-question/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/apoorv1jha/practise-question/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/apoorv1jha/practise-question/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/apoorv1jha/practise-question/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/apoorv1jha/practise-question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/apoorv1jha/practise-question/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/apoorv1jha/practise-question/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/apoorv1jha/practise-question/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/apoorv1jha/practise-question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/apoorv1jha/practise-question/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/apoorv1jha/practise-question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory

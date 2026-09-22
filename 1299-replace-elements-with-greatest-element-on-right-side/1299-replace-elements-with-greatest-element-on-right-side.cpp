@@ -7,7 +7,7 @@ public:
         for(int i=n-1;i>=0;i--){
             int temp = arr[i];
             arr[i]= maxr;
-            maxr=max(arr[i],temp);   
+            maxr=max(maxr,temp);   
         }
         return arr;
     }

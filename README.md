@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/apoorv1jha/practise-question/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/apoorv1jha/practise-question/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/apoorv1jha/practise-question/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apoorv1jha/practise-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/apoorv1jha/practise-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/apoorv1jha/practise-question/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/apoorv1jha/practise-question/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/apoorv1jha/practise-question/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/apoorv1jha/practise-question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -494,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/apoorv1jha/practise-question/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/apoorv1jha/practise-question/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/apoorv1jha/practise-question/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/apoorv1jha/practise-question/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/apoorv1jha/practise-question/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/apoorv1jha/practise-question/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/apoorv1jha/practise-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/apoorv1jha/practise-question/tree/master/1154-day-of-the-year) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/apoorv1jha/practise-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/apoorv1jha/practise-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/apoorv1jha/practise-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -505,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/apoorv1jha/practise-question/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

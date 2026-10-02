@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/apoorv1jha/practise-question/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/apoorv1jha/practise-question/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/apoorv1jha/practise-question/tree/master/0085-maximal-rectangle) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/0022-generate-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/apoorv1jha/practise-question/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/apoorv1jha/practise-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/apoorv1jha/practise-question/tree/master/0500-keyboard-row) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/apoorv1jha/practise-question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/apoorv1jha/practise-question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/apoorv1jha/practise-question/tree/master/0047-permutations-ii) |
@@ -513,5 +516,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/apoorv1jha/practise-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
